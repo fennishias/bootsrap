@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.hero-div{
+    height: 100vh;
+    background-image: url('https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,fit=crop/minattnvs/Rectangle-YZ9P6kWjMnUBNL6W.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.navbar{
+    background-color:#fff;
+}
+#hero-card{
+    background:transparent ;
+    border:none;
+}
+#heading{
+    font-size: 6rem;
+}
+#main-cards .cards{
+    border:none;
+}
+.mid-div{
+    height: 70vh;
+    background-image: url('https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,fit=crop/minattnvs/Untitled-AzGRJwMK6BHxZypJ.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat
+
+}
+#email-form{
+    height:70vh;
+    background-image: url('https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,fit=crop/minattnvs/Frame-AGBpDkZaG5cRpbaw.png');
+    background-position:center;
+    background-size: cover;
+    background-repeat:no-repeat ;
+}
+.label{
+    margin-bottom:20px;
+}
+.label input{
+    border:none;
+    text-align: center;
+    padding:8px;
+    opacity:0.7;
+
+}
+
